@@ -95,17 +95,19 @@
   text-align: center;
   padding: 22px;
 }
-.container .card{
+.container .card {
     display: flex;
     justify-content: center;
     justify-content: space-around;
 }
 .card img{
+    
     width: 17%;
     margin-block: 15px;
     border-radius: 5px;
 }
 .banner img{
+    border-radius: 190px;
     width: 100%;
     margin-top: 44px;
 }
